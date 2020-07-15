@@ -18,3 +18,13 @@ h5{
     padding: 4px 8px ;
     border-radius: 5px;
 }
+#contact{
+    text-align: center
+}
+#contacte2{
+    margin-top: 20px;
+    text-decoration: underline;
+}
+#pseudo{
+    margin-bottom: 5px;
+}
